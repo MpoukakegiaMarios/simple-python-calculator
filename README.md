@@ -7,10 +7,10 @@ Features:
 * User-Friendly: Features a clear, menu-driven interface with clean output formatting.
 
 How to Run:
-1: Ensure you have Python installed on your machine.
-2: Clone this repository
-3: Navigate to the directory
-4: Run the program
+* Ensure you have Python installed on your machine.
+* Clone this repository
+* Navigate to the directory
+* Run the program
 
 Project Structure:
 calculator.py: The main script containing the logic and the interactive loop.
