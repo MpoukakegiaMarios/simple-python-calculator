@@ -13,10 +13,10 @@ A clean, modular command-line interface (CLI) calculator written in Python. This
 * Run the program
 
 # Project Structure
-calculator.py: The main script containing the logic and the interactive loop.
+* calculator.py: The main script containing the logic and the interactive loop.
 
 # Technologies Used
-Python 3.9
+* Python 3.9
 
 # License
-This project is open-source and available under the MIT License.
+* This project is open-source and available under the MIT License.
